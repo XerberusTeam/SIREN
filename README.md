@@ -11,6 +11,11 @@ SIREN is an open registry of fraud-associated wallets. Services that interact wi
 - Legal Analysis
 - Blockchain Relationship Crawler Algorithm
 - Link to SIREN Presentation Document
+
+#### 2️⃣ [First Development Phase]()
+- Interface Development
+-  Registry
+-  API
 </br>
 
 ## 📒 An open ledger designed to register scam wallets
