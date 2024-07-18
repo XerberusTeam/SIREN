@@ -1,4 +1,4 @@
-# 🚨 Scam Investigation Registry Engine [<img alt="siren webapp" width="36px" src="https://cdn-icons-png.flaticon.com/512/1150/1150626.png" />][iagon]
+# 🚨 Scam Investigation Registry Engine [<img alt="siren webapp" width="36px" src="https://cdn-icons-png.flaticon.com/512/1150/1150626.png" />][siren]
 SIREN is an open registry of fraud-associated wallets. Services that interact with the registry can take the necessary action on these associated wallets, such as denial of services.
 </br>
 </br>
