@@ -1,4 +1,4 @@
-# ⚽ Planning & Project Kick-off
+# 1️⃣ Planning & Project Kick-off
 - High-level Architecture
 - Tasks Projection
 - Legal Analysis
