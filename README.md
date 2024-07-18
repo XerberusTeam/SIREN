@@ -1,4 +1,4 @@
-# 🚨 Scam Investigation Registry Engine [<img alt="siren webapp" width="36px" src="https://cdn-icons-png.flaticon.com/512/1150/1150626.png" />][siren]
+# 🚨 Scam Investigation Registry Engine
 SIREN is an open registry of fraud-associated wallets. Services that interact with the registry can take the necessary action on these associated wallets, such as denial of services.
 </br>
 </br>
@@ -23,8 +23,21 @@ The most impactful aspect of this database is its potential integration with Cen
 
 ## 💾 Hosted using the decentralized storage network provided by IAGON
 [<img alt="iagon logo" width="100px" src="https://cdn4.cdn-telegram.org/file/FZNz7RzfxvxTmC-M07mElaCHElEZuirrqlwYMkajSNXOiaqAfFGD3OYekTVcZlZXY5Z_XFn_BOoJEiRtvllGd5hVy6oRhm3Pyr-oqYPXPgRZOKRmYiDJe3uEaJn1bhFddszjBjZ7Su9gVigZEkoJ3A31kNJZ_CeEOPfREiYZpNUli6Ky6ushlxZ8mpTPDA2bx3qwxrCbjZiUoXtvhOqyxpTX58h9zfE70jMOsfApGhFltMN4WaWsha8748JcDZP9PIbWFm-0b_KlVdpeeuHiOMey0hOZ78V1U_yTvJu6hj7wm5M484rcfSguW6mseXAyeYoGdn08_nNfYm_p9xWcmw.jpg" />][iagon]
+Iagon is a well-known community project that has successfully developed and operates a fully functioning decentralized cloud storage service. This cloud storage service, with its decentralized nature, is set to play a crucial role in hosting the infrastructure required for this project. The experience and capability of the Iagon team in the field of decentralized cloud storage will be instrumental in ensuring the reliability and security of the hosting environment for the SIREN project.
 </br>
 </br>
 
+## 🔗 Links
+[<img alt="siren webapp" width="16px" src="https://cdn-icons-png.flaticon.com/128/1006/1006771.png" />][siren] &nbsp; Report a scam in our [webapp][siren]
+</br>
+</br>
+[<img alt="siren webapp" width="16px" src="https://cdn-icons-png.flaticon.com/128/5968/5968830.png" />][announcement] &nbsp; Launch announcement [tweet][announcement] 
+</br>
+</br>
+[<img alt="siren webapp" width="16px" src="https://cdn-icons-png.flaticon.com/128/0/375.png" />][livestream] &nbsp; Explanatory [livestream][livestream]
+
+
 [siren]: https://app.xerberus.io/siren
+[announcement]: https://x.com/Xerberus_io/status/1812807797341401094
+[livestream]: https://x.com/Xerberus_io/status/1812850356889764023
 [iagon]: https://iagon.com/
