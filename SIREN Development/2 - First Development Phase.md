@@ -20,7 +20,7 @@ Note: The product is already live at https://app.xerberus.io/siren/dashboard
 A first database setup using the Iagon Storage Infrastructure
 </br>
 </br>
-https://gw.iagon.com/api/v2/storage/shareable/link/NjZiYzg0MTNiOTkwOTgyYTRiNTIzZjM5[…]NDZjYjI0YWZiMTNlMGNmNGE3Y2MyNGIwZjQzNGZjNTdhMmQxOTQ0NGM3MmUxMQ
+https://gw.iagon.com/api/v2/storage/shareable/link/NjZiYzg0MTNiOTkwOTgyYTRiNTIzZjM5:NTM0ZTdlZjI1MmE0Mzg3MTlkNDZjYjI0YWZiMTNlMGNmNGE3Y2MyNGIwZjQzNGZjNTdhMmQxOTQ0NGM3MmUxMQ
 </br>
 </br>
 
