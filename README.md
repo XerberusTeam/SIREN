@@ -18,6 +18,13 @@ SIREN is an open registry of fraud-associated wallets. Services that interact wi
 -  API
 </br>
 
+####  3️⃣ [Siren Alpha](https://github.com/XerberusTeam/SIREN/blob/6dded5e4ca36c5f8c2e16cbb82e2096110b6b90e/SIREN%20Development/3%20-%20Siren%20Alpha.md)
+- Siren URL Access
+- Scam Wallets
+- Submit a Scam
+- User Feedback
+</br>
+
 ## 📒 An open ledger designed to register scam wallets
 This ledger is accessible to the general community and developers alike. Our primary objective is to establish a straightforward mechanism for registering scam wallets and subsequently denying them access to services. By successfully accomplishing this, we aim to make life more challenging for scammers in the future. 
 </br> 
